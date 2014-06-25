@@ -1,2 +1,2 @@
-MiquolMods
+Timer Mod: Not a finished mod
 ==========
